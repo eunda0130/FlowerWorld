@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5FBFD688-EE56-C895-8F77-3951DDA86D49}</ProjectGuid>
+    <ProjectGuid>{DB598D82-BC65-5A72-D121-4BF46AE9C13F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Postprocessing.Editor</AssemblyName>
@@ -791,7 +791,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
-      <Project>{1954C1CC-CB95-344C-A928-3DBBA85F74B8}</Project>
+      <Project>{09C0BB68-4178-F0F6-32CE-5C9C36255DA1}</Project>
       <Name>Unity.Postprocessing.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
